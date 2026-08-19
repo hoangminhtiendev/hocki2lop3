@@ -1,0 +1,2088 @@
+[
+  {
+    "id": 1,
+    "text": "Unit 11",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit11.png",
+    "scenes": [
+      {
+        "id": 1,
+        "sentence": "sev___een",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ent",
+        "hint": "seventeen (mười bảy)"
+      },
+      {
+        "id": 2,
+        "sentence": "br___er",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "oth",
+        "hint": "brother (anh/em trai)"
+      },
+      {
+        "id": 3,
+        "sentence": "gran___ather",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "df",
+        "hint": "grandfather (ông nội/ông ngoại)"
+      },
+      {
+        "id": 4,
+        "sentence": "twe___e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "lv",
+        "hint": "twelve (mười hai)"
+      },
+      {
+        "id": 5,
+        "sentence": "___on",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "son (con trai)"
+      },
+      {
+        "id": 6,
+        "sentence": "four___n",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "tee",
+        "hint": "fourteen (mười bốn)"
+      },
+      {
+        "id": 7,
+        "sentence": "fam___y",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "il",
+        "hint": "family (gia đình)"
+      },
+      {
+        "id": 8,
+        "sentence": "gran___other",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "dm",
+        "hint": "grandmother (bà nội/bà ngoại)"
+      },
+      {
+        "id": 9,
+        "sentence": "fif___n",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "tee",
+        "hint": "fifteen (mười lăm)"
+      },
+      {
+        "id": 10,
+        "sentence": "mo___er",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "th",
+        "hint": "mother (mẹ)"
+      },
+      {
+        "id": 11,
+        "sentence": "phot___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "to",
+        "hint": "photo (ảnh/hình)"
+      },
+      {
+        "id": 12,
+        "sentence": "six___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "teen",
+        "hint": "sixteen (mười sáu)"
+      },
+      {
+        "id": 13,
+        "sentence": "nin____",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/nineteen.png",
+        "audioUrl": "",
+        "answer": "eteen",
+        "hint": "nineteen (mười chín)"
+      },
+      {
+        "id": 14,
+        "sentence": "par___s",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ent",
+        "hint": "parents (cha mẹ)"
+      },
+      {
+        "id": 15,
+        "sentence": "Are you sur___?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "sure (chắc chắn)"
+      },
+      {
+        "id": 16,
+        "sentence": "ele___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ven",
+        "hint": "eleven (mười một)"
+      },
+      {
+        "id": 17,
+        "sentence": "__enteen",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "sev",
+        "hint": "seventeen (mười bảy)"
+      },
+      {
+        "id": 18,
+        "sentence": "tw___ty",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "en",
+        "hint": "twenty (hai mươi)"
+      },
+      {
+        "id": 19,
+        "sentence": "sis___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ter",
+        "hint": "sister (chị/em gái)"
+      },
+      {
+        "id": 20,
+        "sentence": "ni__teen",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "netee",
+        "hint": "nineteen (mười chín)"
+      },
+      {
+        "id": 21,
+        "sentence": "gran___nts",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "dpare",
+        "hint": "grandfatherrents (ông bà)"
+      },
+      {
+        "id": 22,
+        "sentence": "fath___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "er",
+        "hint": "father (cha/bố)"
+      },
+      {
+        "id": 23,
+        "sentence": "thir___n",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "tee",
+        "hint": "thirteen (mười ba)"
+      },
+      {
+        "id": 24,
+        "sentence": "__elve",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "tw",
+        "hint": "twelve (mười hai)"
+      },
+      {
+        "id": 25,
+        "sentence": "eig___een",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ht",
+        "hint": "eighteen (mười tám)"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Unit 12",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit12.png",
+    "scenes": [
+      {
+        "id": 26,
+        "sentence": "wo___er",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rk",
+        "hint": "worker (công nhân)"
+      },
+      {
+        "id": 27,
+        "sentence": "dri___r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ve",
+        "hint": "driver (tài xế/lái xe)"
+      },
+      {
+        "id": 28,
+        "sentence": "teac___r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "he",
+        "hint": "teacher (giáo viên)"
+      },
+      {
+        "id": 29,
+        "sentence": "c___k",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "oo",
+        "hint": "cook (đầu bếp)"
+      },
+      {
+        "id": 30,
+        "sentence": "sin__er",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "singer (ca sĩ)"
+      },
+      {
+        "id": 31,
+        "sentence": "pu___l",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "pi",
+        "hint": "pupil (học sinh)"
+      },
+      {
+        "id": 32,
+        "sentence": "__urse",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "nurse (y tá)"
+      },
+      {
+        "id": 33,
+        "sentence": "jo__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "job (công việc)"
+      },
+      {
+        "id": 34,
+        "sentence": "do___or",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ct",
+        "hint": "doctor (bác sĩ)"
+      },
+      {
+        "id": 35,
+        "sentence": "My grandfather is a f____.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/farmer.png",
+        "audioUrl": "",
+        "answer": "farmer",
+        "hint": "farmer (nông dân)"
+      },
+      {
+        "id": 36,
+        "sentence": "nu__se",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "nurse (y tá)"
+      },
+      {
+        "id": 37,
+        "sentence": "coo__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "k",
+        "hint": "cook (đầu bếp)"
+      },
+      {
+        "id": 38,
+        "sentence": "s___r",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/singer.png",
+        "audioUrl": "",
+        "answer": "inge",
+        "hint": "singer (ca sĩ)"
+      },
+      {
+        "id": 39,
+        "sentence": "w___ker",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "or",
+        "hint": "worker (công nhân)"
+      },
+      {
+        "id": 40,
+        "sentence": "pup___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "il",
+        "hint": "pupil (học sinh)"
+      },
+      {
+        "id": 41,
+        "sentence": "doc___r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "to",
+        "hint": "doctor (bác sĩ)"
+      },
+      {
+        "id": 42,
+        "sentence": "j_b",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "job (công việc)"
+      },
+      {
+        "id": 43,
+        "sentence": "far___r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "me",
+        "hint": "farmer (nông dân)"
+      },
+      {
+        "id": 44,
+        "sentence": "dr___er",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "iv",
+        "hint": "driver (tài xế/lái xe)"
+      },
+      {
+        "id": 45,
+        "sentence": "co___k",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ok",
+        "hint": "cook (đầu bếp)"
+      },
+      {
+        "id": 46,
+        "sentence": "s___ger",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "in",
+        "hint": "singer (ca sĩ)"
+      },
+      {
+        "id": 47,
+        "sentence": "wor___r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ke",
+        "hint": "worker (công nhân)"
+      },
+      {
+        "id": 48,
+        "sentence": "p___il",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "up",
+        "hint": "pupil (học sinh)"
+      },
+      {
+        "id": 49,
+        "sentence": "t__cher",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ea",
+        "hint": "teacher (giáo viên)"
+      },
+      {
+        "id": 50,
+        "sentence": "nurs___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "nurse (y tá)"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Unit 13",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit13.png",
+    "scenes": [
+      {
+        "id": 51,
+        "sentence": "din___ room",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ing",
+        "hint": "dining room (phòng ăn)"
+      },
+      {
+        "id": 52,
+        "sentence": "tre__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "tree (cây)"
+      },
+      {
+        "id": 53,
+        "sentence": "arou___d",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "around (xung quanh)"
+      },
+      {
+        "id": 54,
+        "sentence": "pon___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "pond (ao)"
+      },
+      {
+        "id": 55,
+        "sentence": "kit___en",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ch",
+        "hint": "kitchen (nhà bếp)"
+      },
+      {
+        "id": 56,
+        "sentence": "liv___ room",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ing",
+        "hint": "living room (phòng khách)"
+      },
+      {
+        "id": 57,
+        "sentence": "ya___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rd",
+        "hint": "yard (sân)"
+      },
+      {
+        "id": 58,
+        "sentence": "h___e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "er",
+        "hint": "here (ở đây)"
+      },
+      {
+        "id": 59,
+        "sentence": "over th___e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "er",
+        "hint": "over there (đằng kia)"
+      },
+      {
+        "id": 60,
+        "sentence": "bat___oom",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "hr",
+        "hint": "bathroom (phòng tắm)"
+      },
+      {
+        "id": 61,
+        "sentence": "be___nd",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "hi",
+        "hint": "behind (phía sau)"
+      },
+      {
+        "id": 62,
+        "sentence": "ho___e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "us",
+        "hint": "house (ngôi nhà)"
+      },
+      {
+        "id": 63,
+        "sentence": "in f___t of",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ron",
+        "hint": "in front of (phía trước)"
+      },
+      {
+        "id": 64,
+        "sentence": "bed___om",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ro",
+        "hint": "bedroom (phòng ngủ)"
+      },
+      {
+        "id": 65,
+        "sentence": "di___ng room",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ni",
+        "hint": "dining room (phòng ăn)"
+      },
+      {
+        "id": 66,
+        "sentence": "bathr___m",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "oo",
+        "hint": "bathroom (phòng tắm)"
+      },
+      {
+        "id": 67,
+        "sentence": "kitch___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "en",
+        "hint": "kitchen (nhà bếp)"
+      },
+      {
+        "id": 68,
+        "sentence": "th___e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "er",
+        "hint": "there (ở đó)"
+      },
+      {
+        "id": 69,
+        "sentence": "fen___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ce",
+        "hint": "fence (hàng rào)"
+      },
+      {
+        "id": 70,
+        "sentence": "_ree",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "tree (cây)"
+      },
+      {
+        "id": 71,
+        "sentence": "gat___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "gate (cổng)"
+      },
+      {
+        "id": 72,
+        "sentence": "p___d",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/pond.png",
+        "audioUrl": "",
+        "answer": "on",
+        "hint": "pond (ao)"
+      },
+      {
+        "id": 73,
+        "sentence": "in fron _f",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "of",
+        "hint": "in front of (phía trước)"
+      },
+      {
+        "id": 74,
+        "sentence": "g___te",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "gate (cổng)"
+      },
+      {
+        "id": 75,
+        "sentence": "ar___nd",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ou",
+        "hint": "around (xung quanh)"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Unit 14",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit14.png",
+    "scenes": [
+      {
+        "id": 76,
+        "sentence": "There is a lamp __ the bedroom.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "in",
+        "hint": "in (bên trong)"
+      },
+      {
+        "id": 77,
+        "sentence": "windo___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "w",
+        "hint": "window (cửa sổ)"
+      },
+      {
+        "id": 78,
+        "sentence": "de__k",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "desk (bàn học)"
+      },
+      {
+        "id": 79,
+        "sentence": "doo__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "door (cửa)"
+      },
+      {
+        "id": 80,
+        "sentence": "roo_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": "room (phòng)"
+      },
+      {
+        "id": 81,
+        "sentence": "la__p",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": "lamp (đèn)"
+      },
+      {
+        "id": 82,
+        "sentence": "n__w",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "new (mới)"
+      },
+      {
+        "id": 83,
+        "sentence": "ch___r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ai",
+        "hint": "chair (ghế)"
+      },
+      {
+        "id": 84,
+        "sentence": "She is ten years ___.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "old",
+        "hint": "old (cũ)"
+      },
+      {
+        "id": 85,
+        "sentence": "There is a __d in the bedroom.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "be",
+        "hint": "bed (giường)"
+      },
+      {
+        "id": 86,
+        "sentence": "bi__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "big (lớn)"
+      },
+      {
+        "id": 87,
+        "sentence": "ta___e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "bl",
+        "hint": "table (bàn)"
+      },
+      {
+        "id": 88,
+        "sentence": "ro_m",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "room (phòng)"
+      },
+      {
+        "id": 89,
+        "sentence": "sma___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ll",
+        "hint": "small (nhỏ)"
+      },
+      {
+        "id": 90,
+        "sentence": "o_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "on (trên)"
+      },
+      {
+        "id": 91,
+        "sentence": "b__d",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "bed (giường)"
+      },
+      {
+        "id": 92,
+        "sentence": "do_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "door (cửa)"
+      },
+      {
+        "id": 93,
+        "sentence": "ol__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "old (cũ)"
+      },
+      {
+        "id": 94,
+        "sentence": "_n",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/in.png",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "in (bên trong)"
+      },
+      {
+        "id": 95,
+        "sentence": "ne__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "w",
+        "hint": "new (mới)"
+      },
+      {
+        "id": 96,
+        "sentence": "w__dow",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "in",
+        "hint": "window (cửa sổ)"
+      },
+      {
+        "id": 97,
+        "sentence": "_amp",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "lamp (đèn)"
+      },
+      {
+        "id": 98,
+        "sentence": "des___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "k",
+        "hint": "desk (bàn học)"
+      },
+      {
+        "id": 99,
+        "sentence": "_oom",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "room (phòng)"
+      },
+      {
+        "id": 100,
+        "sentence": "d___r",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/door.png",
+        "audioUrl": "",
+        "answer": "oo",
+        "hint": "door (cửa)"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Unit 15",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit15.png",
+    "scenes": [
+      {
+        "id": 101,
+        "sentence": "chick___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "en",
+        "hint": "chicken (gà)"
+      },
+      {
+        "id": 102,
+        "sentence": "ri_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "rice (cơm/gạo)"
+      },
+      {
+        "id": 103,
+        "sentence": "wa___r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "te",
+        "hint": "water (nước)"
+      },
+      {
+        "id": 104,
+        "sentence": "b___ad",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "re",
+        "hint": "bread (bánh mì)"
+      },
+      {
+        "id": 105,
+        "sentence": "fi__h",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "fish (cá)"
+      },
+      {
+        "id": 106,
+        "sentence": "ju___e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ic",
+        "hint": "juice (nước ép)"
+      },
+      {
+        "id": 107,
+        "sentence": "dining t__le",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ab",
+        "hint": "dining table (bàn ăn)"
+      },
+      {
+        "id": 108,
+        "sentence": "eg___s",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "eggs (trứng)"
+      },
+      {
+        "id": 109,
+        "sentence": "be__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "an",
+        "hint": "bean (đậu)"
+      },
+      {
+        "id": 110,
+        "sentence": "mi__k",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "milk (sữa)"
+      },
+      {
+        "id": 111,
+        "sentence": "br___d",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ea",
+        "hint": "bread (bánh mì)"
+      },
+      {
+        "id": 112,
+        "sentence": "_eat",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": "meat (thịt)"
+      },
+      {
+        "id": 113,
+        "sentence": "w_ter",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "water (nước)"
+      },
+      {
+        "id": 114,
+        "sentence": "m_lk",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "milk (sữa)"
+      },
+      {
+        "id": 115,
+        "sentence": "r_ce",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "rice (cơm/gạo)"
+      },
+      {
+        "id": 116,
+        "sentence": "di___g table",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "nin",
+        "hint": "dining table (bàn ăn)"
+      },
+      {
+        "id": 117,
+        "sentence": "chi___en",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ck",
+        "hint": "chicken (gà)"
+      },
+      {
+        "id": 118,
+        "sentence": "jui__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ce",
+        "hint": "juice (nước ép)"
+      },
+      {
+        "id": 119,
+        "sentence": "m___t",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/meat.png",
+        "audioUrl": "",
+        "answer": "ea",
+        "hint": "meat (thịt)"
+      },
+      {
+        "id": 120,
+        "sentence": "_ggs",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "eggs (trứng)"
+      },
+      {
+        "id": 121,
+        "sentence": "_ish",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "f",
+        "hint": "fish (cá)"
+      },
+      {
+        "id": 122,
+        "sentence": "_ater",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "w",
+        "hint": "water (nước)"
+      },
+      {
+        "id": 123,
+        "sentence": "Would you like some b___?",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/bread.png",
+        "audioUrl": "",
+        "answer": "read",
+        "hint": "bread (bánh mì)"
+      },
+      {
+        "id": 124,
+        "sentence": "_ilk",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": "milk (sữa)"
+      },
+      {
+        "id": 125,
+        "sentence": "r__",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/rice.png",
+        "audioUrl": "",
+        "answer": "ice",
+        "hint": "rice (cơm/gạo)"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Unit 16",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit16.png",
+    "scenes": [
+      {
+        "id": 126,
+        "sentence": "parr_t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "parrot (vẹt)"
+      },
+      {
+        "id": 127,
+        "sentence": "how m___y",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "an",
+        "hint": "how many (bao nhiêu)"
+      },
+      {
+        "id": 128,
+        "sentence": "c_t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "cat (mèo)"
+      },
+      {
+        "id": 129,
+        "sentence": "pe_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "pet (thú cưng)"
+      },
+      {
+        "id": 130,
+        "sentence": "rabb__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "it",
+        "hint": "rabbit (thỏ)"
+      },
+      {
+        "id": 131,
+        "sentence": "do_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "dog (chó)"
+      },
+      {
+        "id": 132,
+        "sentence": "I have m__y parrots.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "an",
+        "hint": "many (nhiều)"
+      },
+      {
+        "id": 133,
+        "sentence": "bir__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "bird (chim)"
+      },
+      {
+        "id": 134,
+        "sentence": "eleph___t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "an",
+        "hint": "elephant (voi)"
+      },
+      {
+        "id": 135,
+        "sentence": "som_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "some (một số)"
+      },
+      {
+        "id": 136,
+        "sentence": "ra__it",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "bb",
+        "hint": "rabbit (thỏ)"
+      },
+      {
+        "id": 137,
+        "sentence": "p__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "et",
+        "hint": "pet (thú cưng)"
+      },
+      {
+        "id": 138,
+        "sentence": "H__ many rabbits do you have?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ow",
+        "hint": "how many (bao nhiêu)"
+      },
+      {
+        "id": 139,
+        "sentence": "p____t",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/parrot.png",
+        "audioUrl": "",
+        "answer": "arro",
+        "hint": "parrot (vẹt)"
+      },
+      {
+        "id": 140,
+        "sentence": "d_g",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "dog (chó)"
+      },
+      {
+        "id": 141,
+        "sentence": "g___fish",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "old",
+        "hint": "goldfish (cá vàng)"
+      },
+      {
+        "id": 142,
+        "sentence": "bi_d",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "bird (chim)"
+      },
+      {
+        "id": 143,
+        "sentence": "_at",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "cat (mèo)"
+      },
+      {
+        "id": 144,
+        "sentence": "__bbit",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ra",
+        "hint": "rabbit (thỏ)"
+      },
+      {
+        "id": 145,
+        "sentence": "p__rot",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ar",
+        "hint": "parrot (vẹt)"
+      },
+      {
+        "id": 146,
+        "sentence": "d__",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/dog.png",
+        "audioUrl": "",
+        "answer": "og",
+        "hint": "dog (chó)"
+      },
+      {
+        "id": 147,
+        "sentence": "el______t",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/elephant.png",
+        "audioUrl": "",
+        "answer": "ephan",
+        "hint": "elephant (voi)"
+      },
+      {
+        "id": 148,
+        "sentence": "_any",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": "many (nhiều)"
+      },
+      {
+        "id": 149,
+        "sentence": "ca_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "cat (mèo)"
+      },
+      {
+        "id": 150,
+        "sentence": "g_____h",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/goldfish.png",
+        "audioUrl": "",
+        "answer": "oldfis",
+        "hint": "goldfish (cá vàng)"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Unit 17",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit17.png",
+    "scenes": [
+      {
+        "id": 151,
+        "sentence": "pla_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "plane (máy bay)"
+      },
+      {
+        "id": 152,
+        "sentence": "t__dy bear",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ed",
+        "hint": "teddy bear (gấu bông)"
+      },
+      {
+        "id": 153,
+        "sentence": "t_y",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "toy (đồ chơi)"
+      },
+      {
+        "id": 154,
+        "sentence": "tr__n",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ai",
+        "hint": "train (tàu hỏa)"
+      },
+      {
+        "id": 155,
+        "sentence": "b__",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/bus.png",
+        "audioUrl": "",
+        "answer": "us",
+        "hint": "bus (xe buýt)"
+      },
+      {
+        "id": 156,
+        "sentence": "_hip",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "ship (tàu)"
+      },
+      {
+        "id": 157,
+        "sentence": "kit_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "kite (diều)"
+      },
+      {
+        "id": 158,
+        "sentence": "tr__k",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "uc",
+        "hint": "truck (xe tải)"
+      },
+      {
+        "id": 159,
+        "sentence": "c_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "car (xe hơi)"
+      },
+      {
+        "id": 160,
+        "sentence": "teddy be___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ar",
+        "hint": "teddy bear (gấu bông)"
+      },
+      {
+        "id": 161,
+        "sentence": "sh_p",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "ship (tàu)"
+      },
+      {
+        "id": 162,
+        "sentence": "_lane",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "plane (máy bay)"
+      },
+      {
+        "id": 163,
+        "sentence": "_us",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "bus (xe buýt)"
+      },
+      {
+        "id": 164,
+        "sentence": "to_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "y",
+        "hint": "toy (đồ chơi)"
+      },
+      {
+        "id": 165,
+        "sentence": "ca_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "car (xe hơi)"
+      },
+      {
+        "id": 166,
+        "sentence": "tru__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ck",
+        "hint": "truck (xe tải)"
+      },
+      {
+        "id": 167,
+        "sentence": "ki_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "kite (diều)"
+      },
+      {
+        "id": 168,
+        "sentence": "t_________",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/teddybear.png",
+        "audioUrl": "",
+        "answer": "eddy bear",
+        "hint": "teddy bear (gấu bông)"
+      },
+      {
+        "id": 169,
+        "sentence": "b_s",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "u",
+        "hint": "bus (xe buýt)"
+      },
+      {
+        "id": 170,
+        "sentence": "_rain",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "train (tàu hỏa)"
+      },
+      {
+        "id": 171,
+        "sentence": "shi_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "ship (tàu)"
+      },
+      {
+        "id": 172,
+        "sentence": "k___",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/kite.png",
+        "audioUrl": "",
+        "answer": "ite",
+        "hint": "kite (diều)"
+      },
+      {
+        "id": 173,
+        "sentence": "c__",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/car.png",
+        "audioUrl": "",
+        "answer": "ar",
+        "hint": "car (xe hơi)"
+      },
+      {
+        "id": 174,
+        "sentence": "t__",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/toy.png",
+        "audioUrl": "",
+        "answer": "oy",
+        "hint": "toy (đồ chơi)"
+      },
+      {
+        "id": 175,
+        "sentence": "pl__e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "an",
+        "hint": "plane (máy bay)"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Unit 18",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit18.png",
+    "scenes": [
+      {
+        "id": 176,
+        "sentence": "dan__e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "dance (nhảy múa)"
+      },
+      {
+        "id": 177,
+        "sentence": "fu_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "fun (vui vẻ)"
+      },
+      {
+        "id": 178,
+        "sentence": "wr__e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "it",
+        "hint": "write (viết)"
+      },
+      {
+        "id": 179,
+        "sentence": "li__en to music",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "st",
+        "hint": "listen to music (nghe nhạc)"
+      },
+      {
+        "id": 180,
+        "sentence": "dr__ a picture",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "aw",
+        "hint": "draw a picture (vẽ tranh)"
+      },
+      {
+        "id": 181,
+        "sentence": "si_g",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "sing (hát)"
+      },
+      {
+        "id": 182,
+        "sentence": "play ba__etball",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ske",
+        "hint": "play basketball (chơi bóng rổ)"
+      },
+      {
+        "id": 183,
+        "sentence": "wa__h TV",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "tc",
+        "hint": "watch TV (xem ti vi)"
+      },
+      {
+        "id": 184,
+        "sentence": "rea_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "read (đọc sách)"
+      },
+      {
+        "id": 185,
+        "sentence": "f_n",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "u",
+        "hint": "fun (vui vẻ)"
+      },
+      {
+        "id": 186,
+        "sentence": "listen to mu__c",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "si",
+        "hint": "listen to music (nghe nhạc)"
+      },
+      {
+        "id": 187,
+        "sentence": "_ance",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "dance (nhảy múa)"
+      },
+      {
+        "id": 188,
+        "sentence": "wr_te",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "write (viết)"
+      },
+      {
+        "id": 189,
+        "sentence": "re_d",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "read (đọc sách)"
+      },
+      {
+        "id": 190,
+        "sentence": "What are you do___?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ing",
+        "hint": "What are you doing? (Bạn đang làm gì vậy?)"
+      },
+      {
+        "id": 191,
+        "sentence": "pl__ basketball",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ay",
+        "hint": "play basketball (chơi bóng rổ)"
+      },
+      {
+        "id": 192,
+        "sentence": "s_ng",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "sing (hát)"
+      },
+      {
+        "id": 193,
+        "sentence": "_atch TV",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "w",
+        "hint": "watch TV (xem ti vi)"
+      },
+      {
+        "id": 194,
+        "sentence": "draw a p___re",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ictu",
+        "hint": "draw a picture (vẽ tranh)"
+      },
+      {
+        "id": 195,
+        "sentence": "d_nce",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "dance (nhảy múa)"
+      },
+      {
+        "id": 196,
+        "sentence": "li__en to music",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "st",
+        "hint": "listen to music (nghe nhạc)"
+      },
+      {
+        "id": 197,
+        "sentence": "_rite",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "w",
+        "hint": "write (viết)"
+      },
+      {
+        "id": 198,
+        "sentence": "_un",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "f",
+        "hint": "fun (vui vẻ)"
+      },
+      {
+        "id": 199,
+        "sentence": "_ead",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "read (đọc sách)"
+      },
+      {
+        "id": 200,
+        "sentence": "s__g",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/sing.png",
+        "audioUrl": "",
+        "answer": "in",
+        "hint": "sing (hát)"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Unit 19",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit19.png",
+    "scenes": [
+      {
+        "id": 201,
+        "sentence": "skat__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "skate (trượt patin)"
+      },
+      {
+        "id": 202,
+        "sentence": "p_rk",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "park (công viên)"
+      },
+      {
+        "id": 203,
+        "sentence": "pa_nt",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "paint (vẽ)"
+      },
+      {
+        "id": 204,
+        "sentence": "fl_ a kite",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "y",
+        "hint": "fly a kite (thả diều)"
+      },
+      {
+        "id": 205,
+        "sentence": "out__oor",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "outdoor (ngoài trời)"
+      },
+      {
+        "id": 206,
+        "sentence": "ski__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "skip (nhảy dây)"
+      },
+      {
+        "id": 207,
+        "sentence": "cy__e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "cl",
+        "hint": "cycle (đạp xe)"
+      },
+      {
+        "id": 208,
+        "sentence": "sp__t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "or",
+        "hint": "sport (thể thao)"
+      },
+      {
+        "id": 209,
+        "sentence": "ru_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "run (chạy)"
+      },
+      {
+        "id": 210,
+        "sentence": "wa__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "lk",
+        "hint": "walk (đi bộ)"
+      },
+      {
+        "id": 211,
+        "sentence": "play ba_____ton",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "dmin",
+        "hint": "play badminton (chơi cầu lông)"
+      },
+      {
+        "id": 212,
+        "sentence": "_ark",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "park (công viên)"
+      },
+      {
+        "id": 213,
+        "sentence": "r_n",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "u",
+        "hint": "run (chạy)"
+      },
+      {
+        "id": 214,
+        "sentence": "Nam is pain____",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ting",
+        "hint": "paint (vẽ)"
+      },
+      {
+        "id": 215,
+        "sentence": "fly a ki__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "te",
+        "hint": "fly a kite (thả diều)"
+      },
+      {
+        "id": 216,
+        "sentence": "c_cle",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "y",
+        "hint": "cycle (đạp xe)"
+      },
+      {
+        "id": 217,
+        "sentence": "My father is wal____",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "king",
+        "hint": "walk (đi bộ)"
+      },
+      {
+        "id": 218,
+        "sentence": "Lan is ski_____",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "pping",
+        "hint": "skip (nhảy dây)"
+      },
+      {
+        "id": 219,
+        "sentence": "__tdoor",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ou",
+        "hint": "outdoor (ngoài trời)"
+      },
+      {
+        "id": 220,
+        "sentence": "_port",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "sport (thể thao)"
+      },
+      {
+        "id": 221,
+        "sentence": "r__",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/run.png",
+        "audioUrl": "",
+        "answer": "un",
+        "hint": "run (chạy)"
+      },
+      {
+        "id": 222,
+        "sentence": "_ycle",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "cycle (đạp xe)"
+      },
+      {
+        "id": 223,
+        "sentence": "sk_te",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "skate (trượt patin)"
+      },
+      {
+        "id": 224,
+        "sentence": "pa__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rk",
+        "hint": "park (công viên)"
+      },
+      {
+        "id": 225,
+        "sentence": "_alk",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "w",
+        "hint": "walk (đi bộ)"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Unit 20",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit20.png",
+    "scenes": [
+      {
+        "id": 226,
+        "sentence": "pea__ck",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "co",
+        "hint": "peacock (chim công)"
+      },
+      {
+        "id": 227,
+        "sentence": "sw_ng",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "swing (xích đu)"
+      },
+      {
+        "id": 228,
+        "sentence": "tig_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "tiger (hổ)"
+      },
+      {
+        "id": 229,
+        "sentence": "_limb",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "climb (leo trèo)"
+      },
+      {
+        "id": 230,
+        "sentence": "mo_key",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "monkey (khỉ)"
+      },
+      {
+        "id": 231,
+        "sentence": "ho__e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rs",
+        "hint": "horse (ngựa)"
+      },
+      {
+        "id": 232,
+        "sentence": "z_o",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "zoo (sở thú)"
+      },
+      {
+        "id": 233,
+        "sentence": "cou__t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "count (đếm)"
+      },
+      {
+        "id": 234,
+        "sentence": "p_____k",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/peacock.png",
+        "audioUrl": "",
+        "answer": "eacoc",
+        "hint": "peacock (chim công)"
+      },
+      {
+        "id": 235,
+        "sentence": "The monkey is swin____",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ging",
+        "hint": "swing (xích đu)"
+      },
+      {
+        "id": 236,
+        "sentence": "t_ger",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "tiger (hổ)"
+      },
+      {
+        "id": 237,
+        "sentence": "zo_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "zoo (sở thú)"
+      },
+      {
+        "id": 238,
+        "sentence": "cl__b",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "im",
+        "hint": "climb (leo trèo)"
+      },
+      {
+        "id": 239,
+        "sentence": "_onkey",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": "monkey (khỉ)"
+      },
+      {
+        "id": 240,
+        "sentence": "_wing",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "swing (xích đu)"
+      },
+      {
+        "id": 241,
+        "sentence": "c__nt",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ou",
+        "hint": "count (đếm)"
+      },
+      {
+        "id": 242,
+        "sentence": "_orse",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "horse (ngựa)"
+      },
+      {
+        "id": 243,
+        "sentence": "p__cock",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ea",
+        "hint": "peacock (chim công)"
+      },
+      {
+        "id": 244,
+        "sentence": "mo__ey",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "nk",
+        "hint": "monkey (khỉ)"
+      },
+      {
+        "id": 245,
+        "sentence": "z__",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/zoo.png",
+        "audioUrl": "",
+        "answer": "oo",
+        "hint": "zoo (sở thú)"
+      },
+      {
+        "id": 246,
+        "sentence": "clim_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "climb (leo trèo)"
+      },
+      {
+        "id": 247,
+        "sentence": "What can you s__?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ee",
+        "hint": "What can you see? (Bạn có thể nhìn thấy gì)"
+      },
+      {
+        "id": 248,
+        "sentence": "I can see a t____",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/tiger.png",
+        "audioUrl": "",
+        "answer": "iger",
+        "hint": "tiger (hổ)"
+      },
+      {
+        "id": 249,
+        "sentence": "A horse is dan_____.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "cing",
+        "hint": "A horse is dancing. (Một con ngựa đang nhảy múa.)"
+      },
+      {
+        "id": 250,
+        "sentence": "The parrot is cou____.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "nting",
+        "hint": "The parrot is counting. (Một con vẹt đang đếm.)"
+      },
+      {
+        "id": 251,
+        "sentence": "I am Robert. This is a photo of my family. This is my father. He is forty-two years old. He likes reading news. This is my mother. She is thirty-five years old. She is a housewife. She likes cooking. This is my brother. His name is Jack. Jack is only two years old. This is my sister. Her name is Ann. She is eight years old. I am eleven years old. I love my family.\n1. How old is Robet’s father?\n________________________",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "He is forty-two years old.",
+        "hint": "He is forty-two years old."
+      },
+      {
+        "id": 252,
+        "sentence": "I am Robert. This is a photo of my family. This is my father. He is forty-two years old. He likes reading news. This is my mother. She is thirty-five years old. She is a housewife. She likes cooking. This is my brother. His name is Jack. Jack is only two years old. This is my sister. Her name is Ann. She is eight years old. I am eleven years old. I love my family.\n2. What does his mother like doing?\n________________________",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "She likes cooking. ",
+        "hint": "She likes cooking. "
+      }
+    ]
+  }
+]
